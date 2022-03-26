@@ -45,3 +45,7 @@ The first values are: 0,1
 (0.7071067811865475 + 0.5 / 0.7071067811865475)/2 = 0.7071067811865475
 ```
 First, the first approximate values are given. Afterwards one sees the calculation steps, which can be written off in such a way.
+
+
+<br>This script is subject to the MIT-License! Please note and respect this!<br>
+@Coolie09 Copyright© 2022
