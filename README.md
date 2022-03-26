@@ -18,9 +18,9 @@ The purpose of this method is to approximate root knots as accurately as possibl
 (a + b/a)/2
 a represents here a star value, which is found by approximating the value by a root. A value in the square numbers closest to the root value is used. Thus, the approximation for √6 is two (2) or three (3), since 2^2=4 < √6 and 3^3=9 > √6. As a further explanation, we can use the one in the ild, which shows very nicely how the basic principle of this procedure works. The rectangle with side lengths a,b and area A is to become a square with the same area A and side length c. 
 
-![alt text](https://github.com/Coolie09/JS-Math/blob/main/Heron.png?raw=true)
-Img scr: https://www.mayer-ffm.de/index.php/heronverfahren-zum-approximativen-berechnen-einer-quadratwurzel
-All rights of this picture belong to the creater!
+![alt text](https://github.com/Coolie09/JS-Math/blob/main/Heron.png?raw=true) <br>
+Img scr: https://www.mayer-ffm.de/index.php/heronverfahren-zum-approximativen-berechnen-einer-quadratwurzel <br>
+All rights of this picture belong to the creater! <br>
 
 ## How to use this script?
 
