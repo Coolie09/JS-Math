@@ -24,11 +24,11 @@ All rights of this picture belong to the creater!
 
 ## How to use this script?
 
-To use this script you have to call the function ``heron()```.
+To use this script you have to call the function ``` heron() ```.
 from the script and paste it into any JavaScript console. The following values must be specified
 
-``precisicion:``` Specifies the "precision" of a value, or the number of passes through which the value should be run.
-``value:``` The root to be approximated. The root must be neither one (1) nor zero (0) and must be in the positive range.
+```precisicion: ``` Specifies the "precision" of a value, or the number of passes through which the value should be run.
+``` value:``` The root to be approximated. The root must be neither one (1) nor zero (0) and must be in the positive range.
 
 The output is in the following format: 
 ```
